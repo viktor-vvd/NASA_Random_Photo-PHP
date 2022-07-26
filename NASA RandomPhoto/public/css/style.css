@@ -1,0 +1,9 @@
+
+.randomPhotoNASA{
+    width: 100%;
+}
+.randomPhotoNASA img{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
